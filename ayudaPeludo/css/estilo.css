@@ -1,0 +1,43 @@
+body{
+   background-color: aqua;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    margin-left: 6em;
+    margin-right: 6em;
+    text-align: justify;
+}
+
+h1.NIClass{
+    margin-top: 3em;
+}
+
+ul{
+    margin-top: 2em;
+     margin-left: 15em;
+}
+
+img#fotoGato{
+    margin-left: 15em;
+    margin-bottom: 3em;
+}
+
+img#fotoPerro{
+    margin-left: 15em;
+}
+
+img{
+    height: 15%;
+    width: 15%;
+    border-radius: 15%;
+}
+
+div.a{
+   text-align: right;
+   margin-left: 4em;
+}
